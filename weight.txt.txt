@@ -1,0 +1,330 @@
+Date	         Weight	         How closely followed?
+18 Jun 22 	68.6 kg  Up	Reasonably Well	
+
+17 Jun 22	68.4 kg  Down	Reasonably Well	
+
+16 Jun 22	68.6 kg  Down	Reasonably Well	
+
+15 Jun 22	69.1 kg  Up	Reasonably Well	
+
+13 Jun 22	68.8 kg  Steady	Reasonably Well	
+
+12 Jun 22	68.8 kg  Steady	Reasonably Well	
+
+11 Jun 22	68.8 kg  Up	Reasonably Well	
+
+10 Jun 22	68.6 kg  Down	Reasonably Well	
+
+09 Jun 22	69.7 kg  Up	Reasonably Well	
+
+08 Jun 22	68.8 kg  Down	Reasonably Well	
+
+07 Jun 22	69.1 kg  Down	Reasonably Well	
+
+06 Jun 22	69.3 kg  Down	Reasonably Well	
+
+05 Jun 22	69.5 kg  Up	Reasonably Well	
+
+04 Jun 22	69.2 kg  Down	Reasonably Well	
+
+03 Jun 22	69.3 kg  Steady	Reasonably Well	
+
+02 Jun 22	69.3 kg  Up	Reasonably Well	
+
+01 Jun 22	69.1 kg  Down	Reasonably Well	
+
+31 May 22	69.5 kg  Down	Reasonably Well	
+
+30 May 22	69.8 kg  Up	Reasonably Well	
+
+29 May 22	68.8 kg  Down	Reasonably Well	
+
+28 May 22	69.4 kg  Steady	Reasonably Well	
+
+27 May 22	69.4 kg  Down	Reasonably Well	
+
+26 May 22	69.8 kg  Up	Reasonably Well	
+
+25 May 22	69.7 kg  Down	Reasonably Well	
+
+24 May 22	70.3 kg  Down	Reasonably Well	
+
+23 May 22	70.4 kg  Up	Reasonably Well	
+
+22 May 22	70.1 kg  Up	Reasonably Well	
+
+21 May 22	69.6 kg  Up	Reasonably Well	
+
+20 May 22	69.4 kg  Up	Reasonably Well	
+
+19 May 22	68.4 kg  Down	Reasonably Well	
+
+18 May 22	70 kg  Down	Reasonably Well	
+
+17 May 22	70.3 kg  Steady	Reasonably Well	
+
+16 May 22	70.3 kg  Up	Reasonably Well	
+
+15 May 22	69.8 kg  Down	Reasonably Well	
+
+14 May 22	70 kg  Up	Reasonably Well	
+
+13 May 22	69.8 kg  Down	Reasonably Well	
+
+12 May 22	70.8 kg  Up	Reasonably Well	
+
+11 May 22	70.1 kg  Up	Reasonably Well	
+
+10 May 22	70 kg  Up	Reasonably Well	
+
+09 May 22	69.8 kg  Steady	Reasonably Well	
+
+08 May 22	69.8 kg  Down	Reasonably Well	
+
+07 May 22	70.2 kg  Up	Reasonably Well	
+
+06 May 22	69.8 kg  Down	Reasonably Well	
+
+05 May 22	70 kg  Down	Reasonably Well	
+
+04 May 22	70.4 kg  Up	Reasonably Well	
+
+03 May 22	70.2 kg  Down	Reasonably Well	
+
+02 May 22	70.3 kg  Up	Reasonably Well	
+
+01 May 22	70 kg  Up	Reasonably Well	
+
+30 Apr 22	69.8 kg  Down	Reasonably Well	
+
+29 Apr 22	70.4 kg  Down	Reasonably Well	
+
+28 Apr 22	70.6 kg  Down	Reasonably Well	
+
+27 Apr 22	71.2 kg  Up	Reasonably Well	
+
+26 Apr 22	70 kg  Down	Reasonably Well	
+
+25 Apr 22	70.4 kg  Up	Reasonably Well	
+
+24 Apr 22	70.3 kg  Up	Reasonably Well	
+
+23 Apr 22	70.2 kg  Down	Reasonably Well	
+
+22 Apr 22	70.7 kg  Down	Reasonably Well	
+
+21 Apr 22	70.8 kg  Up	Reasonably Well	
+
+20 Apr 22	70.6 kg  Down	Reasonably Well	
+
+19 Apr 22	70.7 kg  Down	Reasonably Well	
+
+18 Apr 22	71.5 kg  Up	Reasonably Well	
+
+17 Apr 22	70.7 kg  Up	Reasonably Well	
+
+16 Apr 22	70.3 kg  Down	Reasonably Well	
+
+15 Apr 22	71 kg  Down	Reasonably Well	
+
+14 Apr 22	71.1 kg  Up	Reasonably Well	
+
+13 Apr 22	70.7 kg  Up	Reasonably Well	
+
+12 Apr 22	70.6 kg  Down	Reasonably Well	
+
+11 Apr 22	71.4 kg  Up	Reasonably Well	
+
+10 Apr 22	70.8 kg  Down	Reasonably Well	
+
+09 Apr 22	72 kg  Down	Reasonably Well	
+
+08 Apr 22	72.4 kg  Up	Reasonably Well	
+
+07 Apr 22	71.9 kg  Down	Reasonably Well	
+
+06 Apr 22	72.1 kg  Up	Reasonably Well	
+
+05 Apr 22	71.5 kg  Up	Reasonably Well	
+
+04 Apr 22	71.3 kg  Steady	Reasonably Well	
+
+03 Apr 22	71.3 kg  Up	Reasonably Well	
+
+02 Apr 22	71 kg  Up	Reasonably Well	
+
+01 Apr 22	70.5 kg  Down	Reasonably Well	
+
+31 Mar 22	70.8 kg  Down	Reasonably Well	
+
+30 Mar 22	71.9 kg  Up	Reasonably Well	
+
+29 Mar 22	71.2 kg  Steady	Reasonably Well	
+
+28 Mar 22	71.2 kg  Down	Reasonably Well	
+
+27 Mar 22	72.3 kg  Up	Reasonably Well	
+
+26 Mar 22	71 kg  Down	Reasonably Well	
+
+25 Mar 22	71.3 kg  Up	Reasonably Well	
+
+24 Mar 22	71.2 kg  Down	Reasonably Well	
+
+23 Mar 22	71.7 kg  Up	Reasonably Well	
+
+22 Mar 22	71.6 kg  Down	Reasonably Well	
+
+21 Mar 22	72.6 kg  Up	Reasonably Well	
+
+20 Mar 22	72.1 kg  Up	Reasonably Well	
+
+19 Mar 22	71.9 kg  Down	Reasonably Well	
+
+18 Mar 22	72.3 kg  Down	Reasonably Well	
+
+17 Mar 22	72.6 kg  Up	Reasonably Well	
+
+16 Mar 22	72.5 kg  Down	Reasonably Well	
+
+15 Mar 22	72.9 kg  Down	Reasonably Well	
+
+14 Mar 22	73 kg  Down	Reasonably Well	
+
+13 Mar 22	74 kg  Up	Reasonably Well	
+
+12 Mar 22	72.7 kg  Steady	Reasonably Well	
+
+11 Mar 22	72.7 kg  Down	Reasonably Well	
+
+10 Mar 22	72.8 kg  Up	Reasonably Well	
+
+09 Mar 22	72.4 kg  Down	Reasonably Well	
+
+08 Mar 22	73 kg  Up	Reasonably Well	
+
+07 Mar 22	72.6 kg  Down	Reasonably Well	
+
+06 Mar 22	72.7 kg  Down	Reasonably Well	
+
+05 Mar 22	73.3 kg  Up	Reasonably Well	
+
+04 Mar 22	72.4 kg  Down	Reasonably Well	
+
+03 Mar 22	72.7 kg  Up	Reasonably Well	
+
+02 Mar 22	72.6 kg  Up	Reasonably Well	
+
+01 Mar 22	72.2 kg  Down	Reasonably Well	
+
+28 Feb 22	73 kg  Up	Reasonably Well	
+
+27 Feb 22	72.9 kg  Up	Reasonably Well	
+
+26 Feb 22	72 kg  Down	Reasonably Well	
+
+25 Feb 22	72.9 kg  Down	Reasonably Well	
+
+24 Feb 22	73 kg  Up	Reasonably Well	
+
+23 Feb 22	72.9 kg  Up	Reasonably Well	
+
+22 Feb 22	72.7 kg  Down	Reasonably Well	
+
+21 Feb 22	73.2 kg  Up	Reasonably Well	
+
+20 Feb 22	73 kg  Down	Reasonably Well	
+
+19 Feb 22	73.2 kg  Up	Reasonably Well	
+
+18 Feb 22	72.5 kg  Down	Reasonably Well	
+
+17 Feb 22	73 kg  Down	Reasonably Well	
+
+16 Feb 22	73.4 kg  Up	Reasonably Well	
+
+15 Feb 22	72.6 kg  Down	Reasonably Well	
+
+14 Feb 22	73.5 kg  Down	Reasonably Well	
+
+13 Feb 22	73.8 kg  Up	Reasonably Well	
+
+12 Feb 22	73.5 kg  Up	Reasonably Well	
+
+10 Feb 22	72.5 kg  Down	Reasonably Well	
+
+09 Feb 22	73.4 kg  Down	Reasonably Well	
+
+08 Feb 22	73.7 kg  Up	Reasonably Well	
+
+07 Feb 22	73.1 kg  Steady	Reasonably Well	
+
+06 Feb 22	73.1 kg  Up	Reasonably Well	
+
+05 Feb 22	72.9 kg  Up	Reasonably Well	
+
+04 Feb 22	72.6 kg  Up	Reasonably Well	
+
+03 Feb 22	72.4 kg  Down	Reasonably Well	
+
+02 Feb 22	72.7 kg  Down	Reasonably Well	
+
+01 Feb 22	73.1 kg  Steady	Reasonably Well	
+
+31 Jan 22	73.1 kg  Up	Reasonably Well	
+
+30 Jan 22	72.9 kg  Up	Reasonably Well	
+
+29 Jan 22	71.4 kg  Down	Reasonably Well	
+
+28 Jan 22	71.9 kg  Up	Reasonably Well	
+
+27 Jan 22	71.7 kg  Down	Reasonably Well	
+
+26 Jan 22	71.8 kg  Steady	Reasonably Well	
+
+25 Jan 22	71.8 kg  Steady	Reasonably Well	
+
+24 Jan 22	71.8 kg  Up	Reasonably Well	
+
+23 Jan 22	71.6 kg  Down	Reasonably Well	
+
+22 Jan 22	72.1 kg  Up	Reasonably Well	
+
+21 Jan 22	71.7 kg  Up	Reasonably Well	
+
+20 Jan 22	71.3 kg  Down	Reasonably Well	
+
+19 Jan 22	71.5 kg  Down	Reasonably Well	
+
+18 Jan 22	72.3 kg  Down	Reasonably Well	
+
+17 Jan 22	72.5 kg  Up	Reasonably Well	
+
+16 Jan 22	72 kg  Up	Reasonably Well	
+
+15 Jan 22	71 kg  Down	Reasonably Well	
+
+14 Jan 22	71.9 kg  Up	Reasonably Well	
+
+13 Jan 22	71.5 kg  Up	Reasonably Well	
+
+12 Jan 22	71.4 kg  Down	Reasonably Well	
+
+11 Jan 22	71.9 kg  Down	Reasonably Well	
+
+10 Jan 22	72.3 kg  Up	Reasonably Well	
+
+09 Jan 22	71.9 kg  Up	Reasonably Well	
+
+08 Jan 22	71.6 kg  Down	Reasonably Well	
+
+07 Jan 22	71.9 kg  Down	Reasonably Well	
+
+06 Jan 22	72.4 kg  Up	Reasonably Well	
+
+05 Jan 22	72.3 kg  Up	Reasonably Well	
+
+04 Jan 22	71.6 kg  Down	Reasonably Well	
+
+03 Jan 22	72.1 kg  Down	Reasonably Well	
