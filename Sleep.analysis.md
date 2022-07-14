@@ -195,8 +195,8 @@ summarize(sleep = as.numeric(sum(duration)), recovery = mean(recovery))
 
 
 ```R
-#After checking these time and comparing it with the data in my phone I can make a conlusion:
-#The time in this data has a  +7 hours gap (it shows as GMT), so I can just subtrack 7 hours 
+#After checking these time and comparing it with the data in my phone I can make a conclusion:
+#The time in this data has a  +7 hours gap (it shows as GMT), so I can just subtract 7 hours 
 sleep_data_whoop_asleep$startDate <- time_add(sleep_data_whoop_asleep$start_date, hours =  -7)
 sleep_data_whoop_asleep$endDate <- time_add(sleep_data_whoop_asleep$end_date, hours =  -7)
 ```
@@ -252,8 +252,8 @@ head(sleep_duration, 3)
 
 
 ```R
-#Creating a table with my weight data (in kg). I store all my data in "FatSecret" app, but they don't allow to 
-#dowload your weight data in a file. So I manually copied my mesurements and pasted in the text file
+#Creating a table with my weight data (in kg). I store all my data in the "FatSecret" app, but they don't allow you to 
+#download your weight data in a file. So I manually copied my mesurements and pasted them into the text file
 
 #Creating R table
 weight_table <- read_delim("/Users/daniel/Desktop/study\ case\ 1/weight.txt.txt") 
@@ -293,11 +293,11 @@ str(weight_table)
 mutate(week_num = isoweek(Date)) 
 
 
-#Right now the week starts on Sunday, but I want to calculate average from Wenesday to Wenesday
-#Because I sleep more on weekends and calculatiung the average weight from one standart week can consfuse my analysis
+#Right now the week starts on Sunday, but I want to calculate average from Wednesday to Wednesday
+#Because I sleep more on weekends and calculating the average weight from one standard week can confuse my analysis
 
-#Without sleep affect on theese day I would have the lowest(on diet) or the highest(on bulking) weight , 
-#So I want to avoid  potential wrong correlation
+#Without sleep affect on these day I would have the lowest(on a diet) or the highest(on bulking) weight , 
+#So I want to avoid  wrong potential  correlation
 weight_table <- weight_table %>%
 mutate(week_num = ifelse(wday(Date) > 4 | wday(Date) == 1, week_num +1, week_num))
 ```
