@@ -2,7 +2,7 @@
 # Sleep and weight analysis in R
 
 Morning weight and sleep duration correlations. I was using very accurate data
-from my watch with my weight records. As my diet is very constant I 
+from my watch with my weight and recovery records. As my diet is very constant I 
 was able to avoid noice and biases about morening weight.
 Before the analysis I beliebed that it's a negative correlation between sleep duration
 and morning weight. But as a result I found no dependence between them.
