@@ -357,7 +357,7 @@ labs(x = "Sleep delta", y = "Weight delta")
 
 
     
-![png](output_17_0.png)
+![png](SleepVsWeight.png)
     
 
 
@@ -374,7 +374,7 @@ labs(x = "Recovery delta", y = "Weight delta")
 
 
     
-![png](output_18_0.png)
+![png](weight_datat.txt)
     
 
 
