@@ -41,7 +41,7 @@ labs(x = "Recovery delta", y = "Weight delta")
 ```
 
 
-![App Screenshot](output_18_0.png)
+![App Screenshot](WeightDeltaVsRecoveryDelta.png)
 
 
 
